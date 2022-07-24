@@ -1,5 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-id="andentv.cl" tvg-name="andentv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="PACK FUTBOL",Andentv
-<a href="https://panel.dattalive.com:443/8176/8176/playlist.m3u8" alt="Android HTTP"><img src="https://panel.dattalive.com:2000/system/theme/Material/images/android.gif" border="0" /></a>
-
-
+https://panel.dattalive.com:443/8176/8176/playlist.m3u8
